@@ -6,5 +6,7 @@ public class HelloCydeo {
 
         System.out.println("Hello CYDEO");
         System.out.println("Hello Java");
+
+        // Some changes are added.
     }
 }
